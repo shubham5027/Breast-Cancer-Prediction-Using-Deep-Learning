@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction-Using-Neural-Networks
-This project employs an Artificial Neural Network (ANN) to predict breast cancer based on  numerical features. With an accuracy of 96 % without overfitting our approach demonstrates the potential of AI in early detection
+This project employs an Artificial Neural Network (ANN) to predict breast cancer based on  numerical features. With an accuracy of 96 % without overfitting also it consist preporcessing pipelines using which easier traformation of data, deep learning artchtexture uses Hyperparameter Tuning using Keras Tuner which Enhance Performance.
 
 # Breast Cancer Prediction Using Neural Networks
 
@@ -46,12 +46,15 @@ from sklearn.base import BaseEstimator, TransformerMixin
 
 
 📈 Results
+
 The trained neural network achieves an impressive accuracy of 96 % on the test set, showcasing its effectiveness in breast cancer prediction.
 
 📂 Project Structure
+
 Breast_Cancer_Prediction.ipynb: Jupyter notebook containing the main project code.
 breast_cancer_prediction.py: Python script equivalent to the notebook.
 breast_cancer_data.csv: Dataset file.
 
 🙏 Acknowledgments
+
 The breast cancer dataset is sourced from the UCI Machine Learning Repository.
