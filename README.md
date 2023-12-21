@@ -45,11 +45,11 @@ from sklearn.preprocessing import FunctionTransformer
 from sklearn.base import BaseEstimator, TransformerMixin
 
 
-📈 Results
+#📈 Results
 
 The trained neural network achieves an impressive accuracy of 96 % on the test set, showcasing its effectiveness in breast cancer prediction.
 
-📂 Project Structure
+#📂 Project Structure
 
 Breast_Cancer_Prediction.ipynb: Jupyter notebook containing the main project code.
 breast_cancer_prediction.py: Python script equivalent to the notebook.
