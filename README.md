@@ -48,7 +48,9 @@ from sklearn.base import BaseEstimator, TransformerMixin
 #📈 Results
 
 The trained neural network achieves an impressive accuracy of 96 % on the test set, showcasing its effectiveness in breast cancer prediction.
+![download](https://github.com/shubham5027/Breast-Cancer-Prediction-Using-Deep-Learning/assets/132193443/a34a8ce9-c1cc-4f70-bae8-69c4bdc53dc9)
 
+![download (1)](https://github.com/shubham5027/Breast-Cancer-Prediction-Using-Deep-Learning/assets/132193443/40dd1dea-62af-45d9-92a8-154eca7a95ee)
 #📂 Project Structure
 
 Breast_Cancer_Prediction.ipynb: Jupyter notebook containing the main project code.
